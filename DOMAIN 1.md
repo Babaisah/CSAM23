@@ -2,5 +2,3 @@ INTRODUCTION TO CYBERSECURITY
 <<<<<<< HEAD
 
 cybersafe
-=======
->>>>>>> a095441b3de493e47c5be1e2c71053529b4fc883
